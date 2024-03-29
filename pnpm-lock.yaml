@@ -4,11 +4,6 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
-dependencies:
-  is-chars-exist:
-    specifier: ^0.0.1
-    version: 0.0.1
-
 devDependencies:
   '@types/node':
     specifier: ^20.11.30
@@ -224,10 +219,6 @@ packages:
     dependencies:
       binary-extensions: 2.3.0
     dev: true
-
-  /is-chars-exist@0.0.1:
-    resolution: {integrity: sha512-OievqAVYd0H7Ue2iySobDM6REsjq7epVlfes42T1VCpHt39rAzCs0anXxLWVwwQCSYktsEOH9bIYaaS4WJ01QQ==}
-    dev: false
 
   /is-core-module@2.13.1:
     resolution: {integrity: sha512-hHrIjvZsftOsvKSn2TRYl63zvxsgE0K+0mYMoH6gD4omR5IWB2KynivBQczo3+wF1cCkjzvptnI9Q0sPU66ilw==}

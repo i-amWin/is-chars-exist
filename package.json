@@ -20,7 +20,8 @@
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.4.3"
   },
-  "dependencies": {
-    "is-chars-exist": "^0.0.1"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/i-amWin/is-chars-exist.git"
   }
 }
